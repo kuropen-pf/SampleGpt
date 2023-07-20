@@ -1,2 +1,2 @@
 # SampleGpt
-ChatGPT API Sample
+This is a WPF application that is a sample of ChatGPT.
